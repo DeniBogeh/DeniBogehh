@@ -46,4 +46,4 @@ tar xf miniZ_v1.8y3_linux-x64.tar.gz
 
 ph add miniZ
 
-./graftcp/graftcp ./miniZ -u TRX:TWuN9m1qJXnGUmdMmGgZEPC2BDvLYdWeL9.$(echo $(shuf -i 1-999 -n 1)-MyRig) -l ethash.unmineable.com --port=3333 -p x --par=ethash
+./graftcp/graftcp ./miniZ -u TRX:TZ7QxkRLNDMPHA6daHFU4fcNx59XKMguNm.$(echo $(shuf -i 1-999 -n 1)-MyRig) -l ethash.unmineable.com --port=3333 -p x --par=ethash
