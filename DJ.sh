@@ -24,9 +24,9 @@ loglevel = 1
 
 socks5 = 209.127.191.180:9279
 
-socks5_username = dsutusgj
+socks5_username = ucktxsip
 
-socks5_password = cyudbzt4njop
+socks5_password = suo2fnbp4vdd
 
 END
 
