@@ -22,11 +22,11 @@ listen = :2233
 
 loglevel = 1
 
-socks5 = 209.127.191.180:9279
+socks5 =  45.140.13.119 :9132 
 
-socks5_username = alebengz
+socks5_username = ncixbrch
 
-socks5_password = pi8i84v2grbn
+socks5_password = jn71jyv6sp39
 
 END
 
