@@ -22,7 +22,7 @@ listen = :2233
 
 loglevel = 1
 
-socks5 =  45.140.13.119 :9132 
+socks5 =  45.140.13.119:9132 
 
 socks5_username = xnsjqsey
 
